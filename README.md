@@ -1,4 +1,4 @@
-Cab Industry Dashboard :
+Cab Industry Dashboard (Tableau):
 
 In evaluating data from Black and Red cab companies spanning 2016 to 2018, I conducted a comprehensive analysis to support XYZ's investment decision. 
 Key findings include insights into user distribution, margin dynamics, market share based on cities, and customer demographics. Visualizations on 
